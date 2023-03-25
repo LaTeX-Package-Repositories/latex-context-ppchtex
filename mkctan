@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+cd ..
+rm -f latex-context-ppchtex.zip
+zip -r latex-context-ppchtex.zip latex-context-ppchtex/{m-pictex.sty,README.md}
+
