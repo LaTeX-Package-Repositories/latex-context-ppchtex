@@ -23,5 +23,9 @@ information, but not distributed to CTAN.
 https://github.com/LaTeX-Package-Repositories/latex-context-ppchtex
 
 
+David Carlisle  
+LaTeX Project Licence: https://www.latex-project.org/lppl.txt
+
+
 
 
